@@ -5,9 +5,20 @@ export default {
 </script>
 
 <template>
-  <div>
-    test
-  </div>
+<header>
+
+</header>
+<!-- /header -->
+
+<main>
+
+</main>
+<!-- /main -->
+
+<footer>
+
+</footer>
+<!-- /footer -->
 </template>
 
 <style>
