@@ -29,6 +29,12 @@ a {
     color: white;
 }
 
+.inputTest {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
 button {
     padding: 3rem;
     margin: 3rem;
